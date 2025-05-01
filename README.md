@@ -1,6 +1,6 @@
 ★　　　　　　　　　　　　　　　　　　　★　　　　　　　★
 
-　★　　 　　★ 　　　　　**꒰ა  Hi, I'm [Hyunbin](www.hyunbin.tech)!  ໒꒱**
+　★　　 　　★ 　　　　　**꒰ა  Hi, I'm [Hyunbin](https://hyunbin.tech)!  ໒꒱**
 
 　　 　　　　　★　　　　　　　　　　　★　　　　　　　　　★　　　　　　★
 
