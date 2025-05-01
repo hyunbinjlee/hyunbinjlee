@@ -1,11 +1,4 @@
-★　　　　　　　　　　　　　　　　　　　★　　　　　　　★
-
-　★　　 　　★ 　　　　　**꒰ა  Hi, I'm [Hyunbin](https://hyunbin.tech)!  ໒꒱**
-
-　　 　　　　　★　　　　　　　　　　　★　　　　　　　　　★　　　　　　★
-
-
-　　　　★　　　　　
+<h2 align="center">꒰ა  Hi, I'm <a href="https://hyunbin.tech">Hyunbin</a>!  ໒꒱</h2>
 
 <!--
 **hyunbinjlee/hyunbinjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
